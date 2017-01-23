@@ -33,7 +33,7 @@ def foo():
 - [ ] this is an incomplete item
 Source : https://guides.github.com/features/mastering-markdown/
 Pommes | Carottes
---------- | -----------
+--- | ---
 5 | 10
 23 | 4
 ~~bouh~~ :)
